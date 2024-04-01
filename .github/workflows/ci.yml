@@ -1,4 +1,7 @@
 # 将静态内容部署到 GitHub Pages 的简易工作流程
+
+
+# 这个配置文件是从https://cn.vitejs.dev/guide/static-deploy.html 抄过来的，啥都没改
 name: Deploy static content to Pages
 
 on:
